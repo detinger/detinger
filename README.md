@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @detinger, Darko Etinger, PhD
 
-Associate Professor · Dean at Faculty of Informatics, Juraj Dobrila University of Pula
-Advisor to the Rector for Artificial Intelligence and Digitalization, Juraj Dobrila University of Pula
+Associate Professor, Dean at Faculty of Informatics of Pula, Advisor to the Rector for Artificial Intelligence and Digitalization, Juraj Dobrila University of Pula
 
 Digital Transformation · Digital Twins · Modelling & Simulation
 
