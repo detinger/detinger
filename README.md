@@ -10,16 +10,16 @@ I work on digital transformation of organizations, focusing on process automatio
 
 🎓 Teaching - Courses at the Faculty of Informatics in Pula (FIPU): IT Management, Modelling and Simulation, Business Process Management, Information Systems
 
-🛠 Student projects typically include:
-	•	Java, Python, JavaScript applications
-	•	Digital transformation solutions
-	•	Applied software engineering projects
+🛠 Student projects typically include:  
+	- Java, Python, JavaScript applications
+	- Digital transformation solutions
+	- Applied software engineering projects
 
-🏫 Institutional Work - At FIPU we are developing:
-	•	modern informatics study programs
-	•	online informatics education
-	•	AI integration in teaching and research
-	•	collaborations with industry and European research initiatives
+🏫 Institutional Work - At FIPU we are developing:  
+	- modern informatics study programs
+	- online informatics education
+	- AI integration in teaching and research
+	- collaborations with industry and European research initiatives
 
 💡 Interested in collaboration in digital transformation, modelling & simulation, or digital twins — feel free to connect.
 
