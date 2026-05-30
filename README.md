@@ -1,30 +1,44 @@
-👋 Hi, I’m @detinger, Darko Etinger, PhD
+# 👋 Hi, I’m Darko Etinger
 
-Associate Professor, Dean at Faculty of Informatics of Pula, Advisor to the Rector for Artificial Intelligence and Digitalization, Juraj Dobrila University of Pula
+I’m an Associate Professor and Dean of the Faculty of Informatics in Pula at Juraj Dobrila University of Pula, where I also serve as Advisor to the Rector for Artificial Intelligence and Digitalization.
 
-Digital Transformation · Digital Twins · Modelling & Simulation
+My work focuses on **digital transformation**, **modelling and simulation**, and **AI-supported information systems**. I connect academic research, industry collaboration, and modern informatics education to develop practical, data-driven digital solutions.
 
-I work on digital transformation of organizations, focusing on process automation, modelling and simulation, and digital twin systems. My work connects research, industry collaboration, and modern informatics education.
+## 🔬 Research Interests
 
-🔬 Research Interests: Digital twins, Business process management, Digital process automation, Modelling and simulation, AI-supported digital transformation, Data-driven decision systems
+- Business process management
+- Digital process automation
+- Modelling and simulation
+- AI-supported digital transformation
+- Data-driven decision systems
 
-🎓 Teaching - Courses at the Faculty of Informatics in Pula (FIPU): IT Management, Modelling and Simulation, Business Process Management, Information Systems
+## 🎓 Teaching
 
-🛠 Student projects typically include:  
-	- Java, Python, JavaScript applications
-	- Digital transformation solutions
-	- Applied software engineering projects
+At the Faculty of Informatics in Pula, I teach courses related to:
 
-🏫 Institutional Work - At FIPU we are developing:  
-	- modern informatics study programs
-	- online informatics education
-	- AI integration in teaching and research
-	- collaborations with industry and European research initiatives
+- IT Management
+- Modelling and Simulation
+- Business Process Management
+- Information Systems
 
-💡 Interested in collaboration in digital transformation, modelling & simulation, or digital twins — feel free to connect.
+## 🛠 Student Projects
 
+Student projects I mentor typically focus on:
 
-<!---
-detinger/detinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Python, JavaScript and Java applications
+- Digital transformation solutions
+- Applied software engineering projects
+- Process automation and information system development
+
+## 🏫 Institutional Work
+
+At FIPU, we are developing:
+
+- Modern informatics study programs
+- Online informatics education
+- AI integration in teaching and research
+- Collaborations with industry and European research initiatives
+
+## 💡 Collaboration
+
+I’m open to collaboration in **digital transformation**, **modelling and simulation** and **AI-supported digitalization**.
