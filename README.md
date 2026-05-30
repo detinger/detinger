@@ -6,38 +6,15 @@ My work focuses on **digital transformation**, **modelling and simulation**, and
 
 ## 🔬 Research Interests
 
-- Business process management
-- Digital process automation
-- Modelling and simulation
-- AI-supported digital transformation
-- Data-driven decision systems
+Business process management, Digital process automation, Modelling and simulation, AI-supported digital transformation, Data-driven decision systems
 
 ## 🎓 Teaching
 
-At the Faculty of Informatics in Pula, I teach courses related to:
-
-- IT Management
-- Modelling and Simulation
-- Business Process Management
-- Information Systems
-
-## 🛠 Student Projects
-
-Student projects I mentor typically focus on:
-
-- Python, JavaScript and Java applications
-- Digital transformation solutions
-- Applied software engineering projects
-- Process automation and information system development
+At the Faculty of Informatics in Pula, I teach courses related to: IT Management, Modelling and Simulation, Business Process Management, Information Systems
 
 ## 🏫 Institutional Work
 
-At FIPU, we are developing:
-
-- Modern informatics study programs
-- Online informatics education
-- AI integration in teaching and research
-- Collaborations with industry and European research initiatives
+At FIPU, we are developing: Modern informatics study programs, Online informatics education, AI integration in teaching and research, Collaborations with industry and European research initiatives
 
 ## 💡 Collaboration
 
